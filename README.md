@@ -4,7 +4,9 @@
 <H3>DATE:</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
-To implement a perceptron for classification using Python
+
+# To implement a perceptron for classification using Python
+
 <H3>Theory:</H3>
 Exclusive or is a logical operation that outputs true when the inputs differ.For the XOR gate, the TRUTH table will be as follows:
 
