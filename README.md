@@ -1,6 +1,6 @@
 <H3>NAME : KOWSALYA M</H3>
 <H3>REGISTER NO : 212222230069</H3>
-<H3>EX. NO.3</H3>
+<H3>EX.NO : 3</H3>
 <H3>DATE:</H3>
 
 # Implementation of MLP for a non-linearly separable data
